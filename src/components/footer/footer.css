@@ -9,12 +9,12 @@
   }
 
   .linkedin {
-    margin-top: 10px;
-    display: flex
+    display: flex;
+    gap: 10%;
   }
 
   .linkedin_icon {
     height: 50px;
     width: 50px;
-    margin-left: 200px;
+    padding: 10px;
   }
