@@ -1,32 +1,18 @@
 import React from 'react'
-import {Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink} from './navbarElements'
-import logo from '../../assets/logo.svg'
+import './header.css'
 
 const Header = () => {
   return (
-      <Nav>
-        <NavLink to="/">
-          {/* <img src={logo} height='100px' width='100px'></img> */}
-        </NavLink>
-        <Bars />
-        <NavMenu>
-          <NavLink to="/about" activeStyle>
-           <h3>About</h3> 
-          </NavLink>
-          <NavLink to="/services" activeStyle>
-            <h3>Services</h3>
-          </NavLink>
-          <NavLink to="/contact-us" activeStyle>
-          <h3>Contact Us</h3> 
-          </NavLink>
-          <NavLink to="/sign-up" activeStyle>
-          <h3>Sign Up</h3> 
-          </NavLink>
-          <NavBtnLink to="/sign-in" activeStyle>
-            <h3>Sign In</h3>
-          </NavBtnLink>
-        </NavMenu>
-      </Nav>
+    <header>
+      <h1>Portfolio</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
   )
 }
 
