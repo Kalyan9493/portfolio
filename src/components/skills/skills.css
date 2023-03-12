@@ -1,0 +1,20 @@
+.container-skills {
+    overflow: auto;
+    display: flex;
+}
+.left-skills {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: left;
+    overflow: auto;
+    margin-left: 10px;
+}
+  
+.right-skills {
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: left;
+    margin: 0px;
+}
