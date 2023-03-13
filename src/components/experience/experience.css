@@ -1,0 +1,22 @@
+.container-experience {
+    text-align: left;
+    display: flex;
+}
+
+.left-experience {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: left;
+    overflow: auto;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+  
+.right-experience {
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: left;
+    margin-left: 10px;
+}
