@@ -1,6 +1,6 @@
 import React from 'react'
 import './home.css'
-import IconUrl from '../../assets/hero.png'
+import IconUrl from '../../assets/KalyanReddyProfile.jpeg'
 
 const Home = () => {
   return (
@@ -9,7 +9,7 @@ const Home = () => {
         <div class="left-home">
           <h1>Hi There,</h1>
           <h2>I am  Kalyan Kumar Reddy</h2>
-          <h2>Software Engineer</h2>
+          <h2>Senior Software Engineer at Omniwyse Technologies </h2>
         </div>
         <div class="right-home">
           <img className='icon' src={IconUrl}></img>

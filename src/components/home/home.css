@@ -1,10 +1,17 @@
 
 .icon {
     border-radius: 300px;
+    height: 300px;
+    width: 300px;
 }
 
 .container-home {
     overflow: hidden;
+    background-image: url('../../assets/background.jpeg');
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
   }
   
   .left-home {

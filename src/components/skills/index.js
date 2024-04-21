@@ -1,6 +1,5 @@
 import React from 'react'
 import './skills.css'
-import Photo from '../../assets/kphoto.jpg'
 
 const Skills = () => {
   return (
@@ -10,7 +9,7 @@ const Skills = () => {
         <ul>
           <li><h3>Backend Technologies</h3></li>
           <ul>
-            <li>Java, SpringBoot, MySQL</li>
+            <li>Java, SpringBoot, MySQL, Micro Services</li>
             <li>NodeJS, MongoDB</li>
           </ul>
           <li><h3>Frontend Technologies</h3></li>
@@ -19,7 +18,7 @@ const Skills = () => {
           </ul>
           <li><h3>Cloud Technologies</h3></li>
           <ul>
-            <li>Docker, Amazon Web Services, Jenkins</li>
+            <li>Docker, Amazon Web Services</li>
           </ul>
         </ul>
       </div>
