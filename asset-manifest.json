@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kalyanreddy-portfolio/static/css/main.e6e74d25.css",
+    "main.js": "/kalyanreddy-portfolio/static/js/main.9e2f2c40.js",
+    "static/js/787.723fea50.chunk.js": "/kalyanreddy-portfolio/static/js/787.723fea50.chunk.js",
+    "static/media/KalyanReddyProfile.jpeg": "/kalyanreddy-portfolio/static/media/KalyanReddyProfile.608038ae751e835c1777.jpeg",
+    "static/media/background.jpeg": "/kalyanreddy-portfolio/static/media/background.763dc723ee9531f593f0.jpeg",
+    "static/media/github_icon.png": "/kalyanreddy-portfolio/static/media/github_icon.ae2245b93f5517f69883.png",
+    "static/media/instagram.svg": "/kalyanreddy-portfolio/static/media/instagram.062f333918be06be07149b1c81e879dd.svg",
+    "index.html": "/kalyanreddy-portfolio/index.html",
+    "main.e6e74d25.css.map": "/kalyanreddy-portfolio/static/css/main.e6e74d25.css.map",
+    "main.9e2f2c40.js.map": "/kalyanreddy-portfolio/static/js/main.9e2f2c40.js.map",
+    "787.723fea50.chunk.js.map": "/kalyanreddy-portfolio/static/js/787.723fea50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e74d25.css",
+    "static/js/main.9e2f2c40.js"
+  ]
+}
